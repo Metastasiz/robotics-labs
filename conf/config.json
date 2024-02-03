@@ -1,0 +1,11 @@
+{
+    "mainDirectory": "proj",
+    "homepagePath": "src/Home_Page.py",
+    "dataDirectory": "data",
+    "secretPath": "data/.secret.yaml",
+    "imageDirectory": "data/image",
+    "logoPath": "data/image/logo.png",
+    "window_height": 600,
+    "window_width": 800,
+    "windowName": "Robotics Labs"
+}
